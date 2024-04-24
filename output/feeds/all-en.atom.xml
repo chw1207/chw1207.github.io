@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Attila Demo</title><link href="http://localhost:8000/" rel="alternate"></link><link href="http://localhost:8000/feeds/all-en.atom.xml" rel="self"></link><id>http://localhost:8000/</id><updated>2024-04-23T00:08:48+05:30</updated><subtitle>Blog description here.</subtitle><entry><title>My super title</title><link href="http://localhost:8000/2024/04/my-super-title/" rel="alternate"></link><published>2024-04-23T00:08:48+05:30</published><updated>2024-04-23T00:08:48+05:30</updated><author><name>Pelican</name></author><id>tag:localhost,2024-04-23:/2024/04/my-super-title/</id><content type="html">&lt;!-- Date: 2024-04-22 19:12   --&gt;
-&lt;p&gt;Category: Python&lt;br&gt;
-Tags: pelican, publishing&lt;br&gt;
-Slug: my-super-post&lt;br&gt;
-Author: Cheng-Han&lt;br&gt;
-Summary: Short version for index and feeds&lt;/p&gt;
-&lt;p&gt;This is the content of my super blog post.&lt;/p&gt;</content><category term="misc"></category></entry></feed>
