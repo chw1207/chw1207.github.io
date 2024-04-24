@@ -4,71 +4,57 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>/</loc>
-<lastmod>2024-04-22T22:29:12-00:00</lastmod>
+<loc>http://localhost:8000/</loc>
+<lastmod>2024-04-23T00:31:26-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tags.html</loc>
-<lastmod>2024-04-22T22:29:12-00:00</lastmod>
+<loc>http://localhost:8000/tag/</loc>
+<lastmod>2024-04-23T00:31:26-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/categories.html</loc>
-<lastmod>2024-04-22T22:29:12-00:00</lastmod>
+<loc>http://localhost:8000/category/</loc>
+<lastmod>2024-04-23T00:31:26-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/authors.html</loc>
-<lastmod>2024-04-22T22:29:12-00:00</lastmod>
+<loc>http://localhost:8000/author/</loc>
+<lastmod>2024-04-23T00:31:26-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/archives.html</loc>
-<lastmod>2024-04-22T22:29:12-00:00</lastmod>
+<loc>http://localhost:8000/archive/</loc>
+<lastmod>2024-04-23T00:31:26-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/my-super-post.html</loc>
-<lastmod>2024-04-22T19:12:00+08:00</lastmod>
+<loc>http://localhost:8000/2024/04/my-super-title/</loc>
+<lastmod>2024-04-23T00:08:48+05:30</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/category/python.html</loc>
-<lastmod>2024-04-22T19:12:00+08:06</lastmod>
+<loc>http://localhost:8000/category/misc/</loc>
+<lastmod>2024-04-23T00:08:48+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/pelican.html</loc>
-<lastmod>2024-04-22T19:12:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>/tag/publishing.html</loc>
-<lastmod>2024-04-22T19:12:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>/author/cheng-han.html</loc>
-<lastmod>2024-04-22T19:12:00+08:06</lastmod>
+<loc>http://localhost:8000/author/pelican/</loc>
+<lastmod>2024-04-23T00:08:48+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
